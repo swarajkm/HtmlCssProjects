@@ -1,6 +1,21 @@
-h1{
-    color: crimson;
+/* h1{
+    color: red;
+
 }
 h2{
-    color: aquamarine;
+    color: green;
+}
+p{
+    color: grey;
+} */
+
+/* Making the entire page same color */
+body{
+    color: maroon;
+}
+
+/* Grouping selectors in CSS */
+h1, h2{
+    color: red;
+    font-weight: 100;
 }
