@@ -10,12 +10,22 @@ p{
 } */
 
 /* Making the entire page same color */
-body{
+/* body{
     color: maroon;
-}
+} */
 
 /* Grouping selectors in CSS */
-h1, h2{
+/* h1, h2{
     color: red;
     font-weight: 100;
+} */
+
+#top{
+    color: red;
+    background: rebeccapurple;
+}
+
+#bottom{
+    color: yellow;
+    background: maroon;
 }
