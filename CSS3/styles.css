@@ -37,15 +37,25 @@ p{
     background-color: pink;
 }
 
-#title{
+/* #title{
     font-size: 40px;
 }
 
 .lowercase{
     text-transform: lowercase;
-}
+} */
 
 .red{
     color: red;
     background-color: gray;
+}
+
+/* div{
+    color: red;
+    background-color: gray;
+} */
+
+span{
+    text-transform: uppercase;
+    color: tomato;
 }
