@@ -20,7 +20,8 @@ p{
     font-weight: 100;
 } */
 
-#top{
+/* ID SELECTORS */
+/* #top{
     color: red;
     background: rebeccapurple;
 }
@@ -28,4 +29,15 @@ p{
 #bottom{
     color: yellow;
     background: maroon;
+} */
+
+/* CLASS SELECTORS */
+.green{
+    color: green;
+    background-color: pink;
+}
+
+.red{
+    color: red;
+    background-color: gray;
 }
